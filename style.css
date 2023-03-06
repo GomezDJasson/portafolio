@@ -104,6 +104,7 @@ section.title div.title-div div.title-container ul li a{
 }
 section.title img.profile {
     width: 20%;
+    border-radius: 50%;
 }
 
 .section-title {
@@ -507,7 +508,6 @@ section.footer div.rodape {
 
     section.title img.profile {
         width: 368px;
-
     }
 
     section.title div.title-div div.title-container ul {

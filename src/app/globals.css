@@ -75,7 +75,3 @@ body::after {
 .dark body::after {
   opacity: 0.6;
 }
-
-* {
-  cursor: none;
-}
